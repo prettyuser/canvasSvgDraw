@@ -1,0 +1,14 @@
+.arrowup {
+  fill: white;
+  transform: scale(0.03) translate(2300%, 310%);
+}
+
+.arrowdown {
+  fill: white;
+  transform: scale(0.03) translate(480%, 330%);
+}
+
+.checkmark {
+  fill: white;
+  transform: scale(1) translate(34%, 8%);
+}
